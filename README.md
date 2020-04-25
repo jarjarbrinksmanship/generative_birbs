@@ -8,4 +8,4 @@ Most (all) of the credit goes to the owner of this repo: https://github.com/erda
 
 If you want to run this project yourself, make sure to download [Processing](https://www.processing.org) and use the Python module.
 
-![birb_example](https://github.com/jarjarbrinksmanship/generative_birbs/blob/master/10-9-s-899.png)
+![birb_example](https://github.com/jarjarbrinksmanship/generative_birbs/blob/master/Favorites/10-9-s-899.png)
